@@ -1,7 +1,7 @@
 ### Hello 👋, I'm Shubham Singh
 -----------
 > I am Programmer & Developer.
-  I Have Experinced in Python, Flask, ML, DL, JS, Cloud & Full-Stack development. 
+  I Have Experienced in Python, Flask, ML, DL, JS, Cloud & Full-Stack development. 
 
 - 🌱 I’m currently learning ReactJs, Cloud development.
 
